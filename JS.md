@@ -1,4 +1,4 @@
-# Javascript é o nome genérico ára a linguagem Ecmascript
+# Javascript é o nome genérico para a linguagem Ecmascript
 
 - Estado do JS (https://2021.stateofjs.com/en-US/demographics)
 - Onde é executado
